@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<settings>
+   <setting>
+      <name>NumMultiClicks</name>
+      <value>2</value>
+   </setting>
+   <setting>
+      <name>MultiClick1</name>
+      <value>135,576</value>
+   </setting>
+    <setting>
+      <name>MultiClick2</name>
+      <value>291,575</value>
+   </setting>
+</settings>
