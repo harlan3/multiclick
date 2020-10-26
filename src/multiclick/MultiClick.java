@@ -84,6 +84,12 @@ public class MultiClick {
 					} catch (Exception ex) {
 						ex.printStackTrace();
 					}
+					String sleepString = xmlMap.get("MultiClick" + Integer.toString(i + 1) + "Sleep");
+					try {
+						Thread.sleep(Integer.parseInt(sleepString));
+					} catch (Exception ex) {
+						ex.printStackTrace();
+					}
 				}
 			}
 		});

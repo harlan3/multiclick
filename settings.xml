@@ -8,8 +8,16 @@
       <name>MultiClick1</name>
       <value>135,576</value>
    </setting>
+   <setting>
+      <name>MultiClick1Sleep</name>
+      <value>2000</value>
+   </setting>
     <setting>
       <name>MultiClick2</name>
       <value>291,575</value>
+   </setting>
+   <setting>
+      <name>MultiClick2Sleep</name>
+      <value>0</value>
    </setting>
 </settings>
